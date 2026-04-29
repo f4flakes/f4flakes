@@ -1,4 +1,4 @@
-## My name is Fola, and I'm a results-driven cloud and cyber security Analyst with two years of experience protecting cloud and on-prem infrastructures. My work focuses on threat detection, vulnerability management, and continuous security monitoring. This repository gathers the lab projects and reference guides that I have worked on over the years that demonstrate my technical depth and commitment to secure-by-design principles.
+## My name is Fola
 
 <!--
 **f4flakes/f4flakes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
