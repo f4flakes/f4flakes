@@ -1,4 +1,4 @@
-## My name is Fola
+## My name is Fola, and I'm a result driven cloud infrastructure and network management professional with a love for Cloud Security. I'm currently documenting my Cloud Security projects which includes Active Directory Security, Cloud Infrastructure hardening, SIEM operations, and incident response. Demonstrated success in building and managing security infrastructure, conducting threat hunting operations, and delivering actionable security improvements.
 
 <!--
 **f4flakes/f4flakes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
